@@ -233,8 +233,12 @@ int shift_distance (char enc_letter){
                 printf("\n");
                 break;
             
-            case 8: exit(0);
+            case 8:
+                 printf("\nFarewell Human. See you again.");
+                 printf("\n");
+                 exit(0);
                 break;
+            
             default: printf("\nYou have entered an invalid choice. Please try again");
         }
     }
