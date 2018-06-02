@@ -1,3 +1,7 @@
+/**
+ * @file functions.h
+ * @brief C library containing the functions used by the program.
+ */
 #ifndef MAIN_FUNCTIONS_H
 #define MAIN_FUNCTIONS_H
 #include <stdio.h>
